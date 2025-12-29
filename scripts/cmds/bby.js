@@ -8,14 +8,14 @@ module.exports.config = {
   name: "bby",
   aliases: ["baby", "bby", "bbe", "babe"],
   version: "1.0.0",
-  author: "meheraz",
+  author: "Meheraz~",
   role: 0,
   category: "chat",
   description: "Auto chat bot with teach & reply toggle",
   guide: {
     en:
-      "{pn} hi\n" +
-      "{pn} teach question - answer\n",
+      "{pn} bby hi\n" +
+      "{pn} bby teach question - answer\n",
   },
 };
 
